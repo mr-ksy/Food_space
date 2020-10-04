@@ -1,2 +1,4 @@
 # Food_space
-A personal project for learning frontend development 
+A personal project for learning frontend development.
+
+The idea is to create a website with a local dataset of food availabe in an area. the user can pick the area and filter their preferences for food.
